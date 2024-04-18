@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: rgb(232, 135, 9);
+  }
+
+  h1 {
+    margin-bottom: 20px;
+  }
+
+  #sizeDisplay {
+    font-size: 18px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid black;
+    display: inline-block;
+    background-color: aliceblue;
+  }
